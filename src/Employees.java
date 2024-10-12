@@ -3,6 +3,7 @@ import java.util.HashMap;
 public class Employees {
     public static void main(String[] args) {
 
+        // This is the java activity for Employees
         // Employee 1
         HashMap<String, Object> employee_object1 = new HashMap<>();
         employee_object1.put("name", "John Doe");
