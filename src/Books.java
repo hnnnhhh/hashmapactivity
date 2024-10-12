@@ -3,6 +3,7 @@ import java.util.HashMap;
 public class Books {
     public static void main(String[] args) {
 
+        // This is the java activity for books
         // Book 1
         HashMap<String, Object> book_object1 = new HashMap<>();
         book_object1.put("title", "The Great Gatsby");
