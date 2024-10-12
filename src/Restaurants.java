@@ -3,6 +3,7 @@ import java.util.HashMap;
 public class Restaurants {
     public static void main(String[] args) {
 
+        // This is the java activity for restaurants
         // Restaurant 1
         HashMap<String, Object> restaurant_object1 = new HashMap<>();
         restaurant_object1.put("name", "Vikings Luxury Buffet");
