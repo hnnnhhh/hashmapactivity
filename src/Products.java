@@ -3,6 +3,7 @@ import java.util.HashMap;
 public class Products {
     public static void main(String[] args) {
 
+        // This is the java activity for Products
         // Product 1
         HashMap<String, Object> product_object1 = new HashMap<>();
         product_object1.put("name", "Laptop");
