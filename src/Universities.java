@@ -3,6 +3,7 @@ import java.util.HashMap;
 public class Universities {
     public static void main(String[] args) {
 
+        // This is the java activity for universities
         // University 1
         HashMap<String, Object> university_object1 = new HashMap<>();
         university_object1.put("name", "University of the Philippines");
